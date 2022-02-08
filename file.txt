@@ -1,1 +1,1 @@
-"File overwritten again." 
+"Kata 2 Overwrite 1" 
